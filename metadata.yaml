@@ -1,0 +1,38 @@
+_repo: Speeches--amp--Letters-of-Abraham-Lincoln-1832-1865_14721
+_version: 0.1.0
+alternative_title: Speeches and Letters of Abraham Lincoln, 1832-1865
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+  editor:
+    agent_name: Roe, Merwin
+    gutenberg_agent_id: '39404'
+    url: http://www.gutenberg.org/2009/agents/39404
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Correspondence'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Oratory'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcc 'E456'
+title: Speeches & Letters of Abraham Lincoln, 1832-1865
+url: http://www.gutenberg.org/ebooks/14721
